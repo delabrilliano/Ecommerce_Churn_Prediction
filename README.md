@@ -1,4 +1,4 @@
-# **Exploratory Data Analysis on Crimes in Boston Dataset**
+# **E-Commerce Customer Churn Prediction**
 ![head](https://raw.githubusercontent.com/delabrilliano/Ecommerce_Churn_Prediction/main/image/ecommerce.png)
 
 
