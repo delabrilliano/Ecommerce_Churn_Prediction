@@ -158,14 +158,14 @@ After implementing ML models, the company will no longer give all the customer a
 
 - Spent on customer retention: 150 * $10 = $1.500
 - Spend the rest on new customer acquisition = $284.671 - $1.500 = $283.171
-- Churned customer = 33 (False Positive)
+- Churned customer = 18 (False Negative)
 - New customer acquired = $283.171/10 = 28.317
-- Customer for next month = 28.317 + 789 - 33 = 29.073 total customer
-- Potential revenue for next month = 29.073 * $1.804 = **$52.447.632**
+- Customer for next month = 28.317 + 789 - 18 = 29.088 total customer
+- Potential revenue for next month = 29.088 * $1.804 = **$52.474.752**
 
 <hr>
 
-We can see the potential revenue differences from implementing the ML models on our hypothetical case above. from the hypothetical case above, By implementing the ML models, the company can gain up to **1 million USD** ($ 1.093.164 to be exact) of potential revenue on the next month from the higher number of acquired customers.
+We can see the potential revenue differences from implementing the ML models on our hypothetical case above. from the hypothetical case above, By implementing the ML models, the company can gain up to **1 million USD** ($ 1.120.284 to be exact) of potential revenue on the next month from the higher number of acquired customers.
 
 <hr>
 
